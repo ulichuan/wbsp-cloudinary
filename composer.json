@@ -1,5 +1,12 @@
 {
-  "require": {
+	"name": "ulichuan/the-cloudinary",
+    "description": "Acceso al imaginario",
+    "authors": [
+        {
+            "name": "ulistudio",
+            "email": "hola@ulistudio.com"
+        }
+    ],  	"require": {
     "cloudinary/cloudinary_php": "dev-master"
   }
 }
