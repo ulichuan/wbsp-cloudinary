@@ -30,7 +30,8 @@ include __DIR__ . "/../vendor/config-cloud.php";
 		<!-- <input type="file" name="file"> -->
 		<?php echo cl_image_upload_tag('image_id'); ?>
 		<input type="submit" name="submit" value="Subir">
-	</form {{ form_rest(form) }}>
+	 {{ form_rest(form) }}
+	</form>
 	<br>
 	<hr>
 	 
